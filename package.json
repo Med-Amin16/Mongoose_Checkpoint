@@ -1,0 +1,19 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.11.1",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
